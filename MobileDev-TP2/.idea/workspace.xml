@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="525bbc66-5042-4e30-8973-911b1acef09b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Spaceship.aab" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Spaceship.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/sharedassets1.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/ScriptLayoutHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/ScriptLayoutHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6c6141-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/6c6141-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/22615c-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/22615c-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/02092D5E6B1FC4A719A4C1B674077B43.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/03D4AC371DDF60FECB83F5FD71C9B8DE.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/06CC349307C07E39B19C18771BB3E09C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/0D0B73D288241B6818A3EF903C69AC9B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/136D5D35AE25E1F161BE0CCA41059CEA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/13C9252646CE51505BC122B7AD1CE177.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/147395FDE6E96E06EE96703F41E4331F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/153F5CA5F64E6652C92FBCCC7F67681B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/164B8B63EA4579B460AB40CB00CE08A4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/18B1D168B1B8EFEC56382273A89DB83C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1A01644FC7431CAB39B6817B49F3AD76.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1A148EDBE35C2D19C0CA2FBB843EF949.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1A54445BAC9ED0638322C104200C7522.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1A9803097627F6EE9649E437A1E1D2DC.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1B9C26980492197B77751B32B2D0A82B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1C66D6D0A2748B3399CC394EB18A4C60.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1CE767E830566DD983EEB97BB5FF8776.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1D2F634E4FE4A8754184A1EB376FA06C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1E948C39018CEED86E87CBFF71C0C407.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1EBEEB99D2B6DE613463AA161E2A9849.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/1F166A7E7FD88CBDD596E41A5A6D9A5B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/2267D4B05240AEE14DF82D38E0170B73.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/25736A59029A9EFC67DDF780B639BF64.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/2ACF18F5FA9101E7C60E2D3350DEF634.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/2BCB72507B267151764AF20DC798793A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/31FB669B643D79408BC0240BCB8395CD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/330A41D9DCE225E893171D25F1675A9B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/39DF9AA9B4979C447D8FD1BCE9C5AF2C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/3F2B7A1B80632284CE810765BC067ED5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/4132CAC7B410B8B6ED8222A6D8EDE522.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/4170519D2F16D29B8C008CE8A012A1E4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/4281EB0B5B76CFE7EBF428F1BC01F38F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/429B3D857D7377A68A781D570FA19957.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/46C5F459D9DE7480B37B31916C95DE0F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/46E72C81D3CD301A45F62C48DED6EB34.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/48047C4F2C9A030EBDE0A44D1BBA6D19.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/55493BB25DE7D81B1B707E2B3FBFE81B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/5598C43A002EAA0F72A5DF2668E03F49.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/56F9F79C961DE151E92001544F68B7BB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/5791CB9B69571B4AF87724AE8C5B4602.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/5DD60897B3CB13E1A0D08EA917B75DDE.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/666812B085973CC8CCD69D68978BC700.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/67612B6BAEC3483E2CD24CD68E238D5C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/68ACAFEFA1094C504A7C8642A23C0815.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/69CCB95EB10848ADEDB4798263C9E377.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/6AD2D47F3FBC98A43BADD291F7596A27.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/6B4F9EFAE8E4EB6BCFA08E08B2E7AD65.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7055D6A0A58C5549DA6E97931F96D70E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7097038574B919E5CBAEC2C9C4AB9289.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/70D5CCB3541BB29F33F47F8A936C1BA9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/71D858C9A76B7C30EC174F2A8F89CC00.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/733E484E80EFFED1ED08377A221C0231.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/77758688D57079E15E40C3414FE379E4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7A48E7421F50C799A0D5125CF2B37E64.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7B18424B611D486C7483469978CB8953.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7D4DBAB1CF07D17270886BD2713C3BE1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/7F0AB994BFDC6324CF60D5B96503413C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/823321E3CAF5AC2E77945088399DAC99.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/8B58905A771D647255E9B8880664397E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/90407C245B3FE90C81A048FA73B87213.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/99F5F64AE57343F862AC990E4BD1705E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/9B584C7F3BB8AED8FB9AAC950901DDC2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/9C69D2AFA14E2569A9BE9D024542BFD6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/9CDFFAE6F53753943D8FB164A7F538E3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/A5F75F8BB3BC5310F4141FE965BC1FA7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/A64EA04B0B1F282C74BAAD8B2D94664A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/A9195C288EE7F4401BCD0F0818DEED6A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/AAEDEB8A5CA333B91DF868D7EB918875.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/AE5F16190B1E1BE2BE37559C15D32DE1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/AF2C76060683238581203A155B1C87CC.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/B051CD0F9AF3F326CC4B209445B9BCAA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/B6D6F0972CA08789C7FA86FE816091F9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/B7264855676F3C9A3FA99B5847EEEC94.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BA7D3736CEFD7DD996B1C1C529E05C81.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BB571117831B724080CA60494D7E2641.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BC16E61F1FEBB6FB3F4E9702B9F7FDA3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BCC5B0B70930B726F838CB2174F03023.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BE397000477975AB3ED4470F6B65A5EA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BEDD457468CFA7A7846C421C2E91A3B2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/BEFF9CCAD50A65BF6503C29F54F9B329.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/C14B6AF01A3C6282881946C3CD151FA9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/C4B896F3E67D182FD7AC17AF24BA1906.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/CA0EC6569A6FE4CA7164DE562DC26ED0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/CA33C5C002609D4F6E29B2D08293CDCB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/CAFD683B43C8066837294FC69959A156.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D0435AA28BE04B759A1CB4DBFEBE0A6F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D0B0099FE347A5C318411360F6A246A0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D209D03343E1D1EB830BA78393199A1F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D3C1DE38282BD9A1B5EB0F25DA67CBF4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D6E93A722A0D46492117B1EE2DC5F51C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/D832AF3875B3BF867F867470A6C4F3E9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/DB0346859AC527BDEE13B4A15B96619D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/DCE71C8A5B96680460F31450BECEF862.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/DDCA3CBD1DE7D284F3C49DD915173C1C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/E21B5E5EA5E25495041A16B5908FC528.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/E3D188D5C3DEC6C8116DB5D075CCC005.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/E67BE9A469558B118763DE8F21FFF5CD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/E7EB8B0E29BCCFD3F775B14FA35911A4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/E863A47E6852F3C10A2E7AF81217508D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/ED735F148B23E28308A9921BD9E1C4DD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/EE0E0353E11F5E68D30FCD62F198B05D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/EE6F92278FA717CCCF30FA17646A5435.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/EE8604F6BCD4E6569DC4B6058CDFDA47.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F0090A866F1A05F77D25AF82146CF25A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F0D7CF6E56FB5509E759F989CA2D416C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F21EE4DAD81DC1A6EFCBBECB6879BD2F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F7323FAC3D88FF93FCC10828AF5398BA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F7DA6580F837FE4C887079CC4CC5BA72.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F7EF21BD985A2578E311E44607F6E5F0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F81853E14ABD669B278C4E0058D8FAAA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F8B3B1D86A76F83A644D155585182987.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/F9ADA11B0060CBD4753328FE68FCB9F8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/FB265F8B282CFC96A9017F35820A0173.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/FCFAAB74C648D872841FB88283C8CB90.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/FE686F0E7B8C21E1415F9369A6D53A36.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/FE9C29585B63508F8D90BA27FF68BF63.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_arm64-v8a/il2cpp_cache/linkresult_31D536573E6A9BADCE5D8E89447215D0/libil2cpp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/066BF5B320604D7E557FB9EA253A2479.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/06DFCED5CD8DA60FA2DB4AFD5D74C2C4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/08EBCA73A274A5CE09E496DA9A581ACD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/09D6BDA20B33B5C090BF3EFC81AE5FFF.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/0CAC7615F0C9024533686C0B93B94D51.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/0E74BFB4C7718764D9BD6960B741C99F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/0F573759D2A094F4F7058884190E5D34.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/104A2E058DFA4D7D6FAFEB1915AA63F6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1385D010E7A5A6D9011D011071D85FE6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/146F001A03DC1E7004938494E538CE59.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/15C03B47474E66C0C57F77BFAAE7E07B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/18275FA22B14F4C422DD9E3A3436C35C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1B313518A455C53C64A812A6551FB58F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1CA241831A5D3BE0979D6E71D528FD6A.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1CFE53532FCAFBD40E2FB20986D18DF2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1DE053A90E6ACD23DF14389829471368.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1E803BA686D77030A9118949C482F396.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/1F341904DAEE78BE010353205563CE8F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/21BDBDFD05A5737C284FA37963CFB923.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/23FDE5C3DC151457D4D9BA986C62C607.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/24C215E3B597D34FCC4F76923EF9B4C5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/2BD3FA6740E25AAE63FB3657A782A83B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/2CFFD972FDC54D64AA6868DBDF0FFB79.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/3283A94A3CBB8930978BF769D3D8614E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/384C5316BB6233560DFA444E839034E5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/3993EB08D0CCC9B60F0EC3B60D3F99B8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/3B24ECAFF5392C09D68A75335240DD37.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/3E47F787C77FFBD9076DC38110B7DBF0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/3EE8114FA2CA7CDB481FFEFD0B63FC89.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/453B90B20A1158006B54A2479C91A6EB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/45BB708F205AFB2B6FE56B98DC25A2EB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/46BF85D1DEE317DAC1983039CF379085.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/49450EA119AEDF71FC9033CAC009EC7D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/4BC725086E66086C866D0F8B7AF9AE85.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/4ECE72654209F2AD33BDF60A552B8DAB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/518B4C2D8571156EA51AC9FED1278828.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/524704B4B528834D10F5E28BBABA03B0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5372EB78DB63F3DD662B377C9ECDAB8C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/564F09C55A59217847B0B19885A64936.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/58E743790D65835EFDD4E69D5626E0B9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5910BDBA7D597DEE7CF5BAADE779083F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/59DE9A5ECD5B93DF2584C8F5323D4482.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5A71AB161C9317AF83FB84C2FBD528F6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5B143CF6731C0D5179C69C817DCC1413.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5BDA5697E51E29C52D8334805A7E1941.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5FA1A27FE8B505C0BE2EEED655FD36D7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/5FFF398298C78242E9437A703B8D9B5C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/610AAAF8BA0DA1670BF76EBA77E54B0E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/620ADA3F2D9B888273CC4A6E28B42702.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/62662BEE56EC0939E7C9EDB4997C40BB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/65F403D95128733FA8AB3518AB74E2E7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/692642CEBDECE35B4C7204A16E0421DC.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/6BBAE452870068850EEEC69C7CD17F9E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/6C4C4352C2FE7633BF05989AD306A815.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/74C9463FDB971C52671FB0D6F67F3490.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/75036689D7F05BE204BC7B85A693F050.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/7771177D21CE91ECEC18EEA5ECD40A82.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/78B16D80E82ACF49922CA7994DA98878.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/79A91E5C386340383EEA1BEFBEB7269C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/7C3EE740A90D0FA64D58A99D739A9C58.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/7DF16D0798EFE2AB2AC73B829C2CEEFD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/7E3FEAEFBB2A1AD1DF377196A79543D2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/81FA6245ED85BDAD23201ACF111A7DAB.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/82288CED70AA0228E63BE7B6FE0DE136.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/8B76122E54EC4BE0CB4EE5FC092B90F8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/9516C3FF5339AED1D951B3474BAB10A8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/9543D261F5BF7572363D4E098E9B76C7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/96C9A3A652794C6131B7EAFCF3DED1C3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/97B625D9FB91738B9D84EBD57BAB560D.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/980DE792F0D403CB225D6891983585B9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/9971CCA5146669088FFEAADEDDE2B680.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/9AA89D9D63A7B26DAE5C99FDE07EDE85.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/9E50B59BEFBC858C39EC5747437B305F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/A24516F67BC5BC32D88DCD7D7B4D44C4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/A4DF5670947FCEA94339A38B7C618354.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/A6A25358C8A3AC5B808C281B4F6AA7D9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/A85390043964534A9C3CC9C94EAFDBC6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/A88CBC3B39F9171F5366280A35737023.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/ADCEE4A6C8E24063B805325F84798FB3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/AFF60559895E5DBA607EEF795409DEA6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/B314F701DDB5A0DD6C99DEBAEDBAA113.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/B3DE85B772C1771797946BF70AE68870.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/B552805795D31C10150EA042D0391781.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/BB11B9BE0D096B397FED7CA9D02FB98F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/BD32344BCBD27DC4D39D66879B8A1F1F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/BD5EF9F623D5C3293BF28593F53D430F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/BFB4FCBBE954DBF28231DEF9779889E8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C0F4E33257AC6FAC2571EA84123357AE.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C13B7153C5BCA849EBC0DCE0D96F083E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C214AF16026F8266815C51786FC85105.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C2777ABD162DA88F924CC5B53FD6DB23.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C6A5A60B1F52A039367169666FDAE8B8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C6B24A96AA9EE9E34E441DE31006D8E3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C80786FB1A4703CB988BFFF62EE3B9BE.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/C8F8D41F7EC5A2EF72868CE03906FE78.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/CA0188FA9CB0E0553665B028D3DC88C1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/CACF0B641FC14D79A3A9E2AC130FE69B.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/CC3D19368CCBFBC8E0C21820C20E64FD.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/D64708619CE50D5D4C7231CCC211C30C.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/D6BED8CBBFEE9E23B4674684084FAEF9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/D7A19B4BFE903C15DA253911E2E6DC67.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/D97704EE308CA00CF8B4F8B6069CAC64.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/DB06A037934E25A58ED4352A2302E1B2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/E0206BDA479F725E2F11340D7D13B362.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/E0B990C44EE6C554C7891CBF3FA2D3DA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/E1DA1C59C4F4BF8A92ED840E9E9907D6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/E5B2BBDD903824AC3FF7A7B8FE1028D6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/E8B6990861B2CDD42509F12D1FC85EA2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/ED44A6F578807A88BCC1040322051DE1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/F0CFAF7C86769C2E9BEB8FAFF5292873.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/F10D85F96922CC50D4E7BC38692AD6E1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/F3F3E243972ED3034D37C06323DD442F.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/F442CE847CCBE137B83C2949BA0C894E.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/F82A253DD624600DDAA506C790C698FF.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/FA6DBE184627D3EC344D0D9ACD55A208.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/FFD008241F702730D25DF0BBBF221CDA.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_E4C5928A8A3E7AEE2E6E9BF26DCC9741/libil2cpp.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/45/45afbc05c42d6ee4cad3ccf7b351809b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/45/45afbc05c42d6ee4cad3ccf7b351809b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/45/45afbc05c42d6ee4cad3ccf7b351809b.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/45/45afbc05c42d6ee4cad3ccf7b351809b.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b37cdb4d608575548a73d970d8705ecf" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b3/b37cdb4d608575548a73d970d8705ecf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b37cdb4d608575548a73d970d8705ecf.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b3/b37cdb4d608575548a73d970d8705ecf.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j63EgG8LnFD3cCg725cDXZvpnE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525bbc66-5042-4e30-8973-911b1acef09b" name="Default Changelist" comment="" />
+      <created>1603110603813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603110603813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="276" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603110633750">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="276" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1603110633750" />
+  </component>
+</project>
