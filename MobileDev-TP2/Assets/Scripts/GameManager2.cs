@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour{
+public class GameManager2 : MonoBehaviour{
 [SerializeField] GameObject asteroidpre;
 
     void Awake(){
@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour{
         for(int i = 0;i<4;i++)
             Instantiate(asteroidpre,transform.position= new Vector3(Random.Range(-7.85f,7.95f),Random.Range(6f,12f),0) , transform.rotation);
         Time.timeScale = 1;
-        ScoreScript.targetScore = 500;
+        ScoreScript.targetScore = 1000;
     }
 
     bool stage1 = false;
